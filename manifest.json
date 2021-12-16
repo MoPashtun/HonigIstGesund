@@ -1,6 +1,6 @@
 {
-    "name": "Dario PWA",
-    "short_name": "DarioPWA",
+    "name": "Meron PWA",
+    "short_name": "MeronPWA",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#fdfdfd",
