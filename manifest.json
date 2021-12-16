@@ -1,6 +1,6 @@
 {
-    "name": "Meron PWA",
-    "short_name": "MeronPWA",
+    "name": "HonigIstGesund",
+    "short_name": "HIG",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#fdfdfd",
